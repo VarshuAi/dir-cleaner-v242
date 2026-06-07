@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Organizes unorganized files into sorted category folders. [Variant 242 using CPP with Neon_Dark theme]
+  name: dir-cleaner-v242 version: 1.0 type: Repository author: VarshuAi description: >   Organizes unorganized files into sorted category folders. [Variant 242 using CPP with Neon_Dark theme] primary_tech: C++
 primary_tech: C++
 ```
 
